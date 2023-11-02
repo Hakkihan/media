@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Moira"
+    },
+    {
+      "name": "Bridget O'Hara",
+      "id": 5
+    },
+    {
+      "name": "Charlotte Bernier Sr.",
+      "id": 6
+    },
+    {
+      "name": "Luz Hagenes",
+      "id": 7
+    },
+    {
+      "name": "Denise Cormier",
+      "id": 10
+    },
+    {
+      "name": "Dianna Sipes",
+      "id": 14
+    },
+    {
+      "name": "Karla Gorczany",
+      "id": 15
+    },
+    {
+      "name": "Chris Monahan Jr.",
+      "id": 16
+    },
+    {
+      "name": "Rose Medhurst",
+      "id": 17
+    },
+    {
+      "name": "Nancy Zboncak Jr.",
+      "id": 18
+    }
+  ],
+  "albums": [
+    {
+      "userId": 7,
+      "title": "Handmade Fresh Ball",
+      "id": 17
+    },
+    {
+      "userId": 5,
+      "title": "Handmade Wooden Chicken",
+      "id": 23
+    },
+    {
+      "userId": 1,
+      "title": "Sleek Cotton Bacon",
+      "id": 24
+    },
+    {
+      "userId": 1,
+      "title": "Unbranded Bronze Soap",
+      "id": 26
+    },
+    {
+      "userId": 1,
+      "title": "Luxurious Frozen Pants",
+      "id": 27
+    },
+    {
+      "userId": 1,
+      "title": "Handcrafted Fresh Computer",
+      "id": 28
+    },
+    {
+      "userId": 7,
+      "title": "Practical Granite Shoes",
+      "id": 29
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=34827",
+      "id": 2
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=15238",
+      "id": 3
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=90679",
+      "id": 4
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=63694",
+      "id": 5
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=82750",
+      "id": 6
+    }
+  ]
+}
