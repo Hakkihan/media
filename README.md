@@ -1,3 +1,12 @@
+![image](https://github.com/Hakkihan/media/assets/36494569/58a6f503-3ec4-454d-86ec-67fe2ba14697)
+
+![image](https://github.com/Hakkihan/media/assets/36494569/de23c9ca-4f33-4f26-8023-c209a728ce7c)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
